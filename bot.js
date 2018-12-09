@@ -23,7 +23,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-مبلغ'){
-        message.channel.send('#credit @AhmedEl-Dean.#4874 5000')
+        message.channel.send('#credit')
     }
 });
 
