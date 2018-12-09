@@ -85,7 +85,7 @@ client.on('message', msg =>{
 
         let args = msg.content.slice(4);
 
-  if (msg.author.id !== '316324088865882142') return;
+  if (msg.author.id !== '447880730564100127') return;
 
   if (msg.content.startsWith('say')) {
 
